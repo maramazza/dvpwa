@@ -1,4 +1,7 @@
-.python-version
-.idea/
-*.pyc
-__pycache__/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
